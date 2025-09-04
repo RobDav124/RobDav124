@@ -1,4 +1,4 @@
-## Hi there, I'm Robert!👋 <br/><a href="https://github.com/RobDav124">Digital Design Hobbyist</a>, <a href="https://www.linkedin.com/in/robert-davenport-028661322">Computer Engineering Student</a>
+## Hi there, I'm Robert!👋 <br/><a href="https://github.com/RobDav124">Digital Design Enthusiast</a>, <a href="https://www.linkedin.com/in/robert-davenport-028661322">Computer Engineering Student</a>
 
 <h2>👨‍💻 Computer Engineering Projects:</h2>
 
@@ -8,11 +8,6 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+Email: bobbydavenport124@gmail.com
+<br>Linkedin: https://www.linkedin.com/in/robert-davenport-028661322
+<br>Handshake: https://app.joinhandshake.com/profiles/g4cgn8
