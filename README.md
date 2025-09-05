@@ -3,9 +3,9 @@
 <h2>👨‍💻 Computer Engineering Projects:</h2>
 
 - <b>8-bit CPU implementation for Digilent Nexys A7 FPGA (Verilog, FPGA Programing, CPU Design)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Custom 8-bit CPU](https://github.com/RobDav124/Custom-8-bit-CPU)
 - <b>Real-time weather prediction model in Python(Python, TensorFlow, Pycharm, Meteostat, LSTM neural network)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 
 <h2> 🤳 Connect with me:</h2>
 Email: bobbydavenport124@gmail.com
