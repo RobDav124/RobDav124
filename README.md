@@ -5,7 +5,9 @@
 - <b>8-bit CPU implementation for Digilent Nexys A7 FPGA (Verilog, FPGA Programing, CPU Design)</b>
   - [Custom 8-bit CPU](https://github.com/RobDav124/Custom-8-bit-CPU)
 - <b>Real-time weather prediction model in Python(Python, TensorFlow, Pycharm, Meteostat, LSTM neural network)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Real-time Weather Prediction Model](https://github.com/RobDav124/Real-time-Weather-Prediction-Model) <b><i></b></i>
+  
+<h2>Professional Presentations:</h2>
 
 <h2> 🤳 Connect with me:</h2>
 Email: bobbydavenport124@gmail.com
