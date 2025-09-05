@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Computer Engineering Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>8-bit CPU implementation for Digilent Nexys A7 FPGA (Verilog, FPGA Programing, CPU Design)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Real-time weather prediction model in Python(Python, TensorFlow, Pycharm, Meteostat, LSTM neural network)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 <h2> 🤳 Connect with me:</h2>
