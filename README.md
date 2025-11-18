@@ -8,7 +8,7 @@
   - [Real-time Weather Prediction Model](https://github.com/RobDav124/Real-time-Weather-Prediction-Model) <b><i></b></i>
   
 <h2>Professional Presentations:</h2>
-
+-  <b>"Combinational Methods of reducing inference time for LSTM Neural Networks" Summer Undergraduate Research Fellowship (SURF) Poster Session 1, University of Maryland Baltimore County, Catonsville, MD, August 2025</b>
 <h2> 🤳 Connect with me:</h2>
 Email: bobbydavenport124@gmail.com
 <br>Linkedin: https://www.linkedin.com/in/robert-davenport-028661322
